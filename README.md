@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahidh
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me mohamedshahidh2001@gmail.com , for intsa: @shahidh568
 
 <!---
