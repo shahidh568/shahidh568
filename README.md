@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahidh
-- 👀 I’m interested in Data Science and open source
+- 👀 I’m interested in Artificial Intelligence, Technology and open source.
 - 🌱 I’m currently learning Data Analytics.
 - 📫 How to reach me mohamedshahidh2001@gmail.com , for intsa: @shahidh568
 
